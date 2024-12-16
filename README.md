@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Well! Hello there! 👋 I'm Mohit Kumar 
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for building projects, solving problems, and learning new technologies. Here's a little about me:
 
@@ -47,7 +47,7 @@ A command-line program built in C for managing library operations.
 - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
 - 🌐 Portfolio: [YourWebsite](#)
 - 🎥 YouTube: [YourChannelName](#)
-- 💼 LinkedIn: [YourLinkedInProfile](#)
+- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/mohit-kumar-9aa938309/)
 
 ---
 
